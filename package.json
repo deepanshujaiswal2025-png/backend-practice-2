@@ -19,6 +19,13 @@
   },
   "homepage": "https://github.com/deepanshujaiswal2025-png/backend-practice-2#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "@neondatabase/serverless": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "drizzle-orm": "^0.45.2",
+    "express": "^5.2.1",
+    "pg": "^8.22.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.10"
   }
 }
